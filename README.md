@@ -1,10 +1,10 @@
 ### Hi there 👋
 My name is Evangelina Vega! 
+I'm currently learning how to code at a Web & App Development course at CICCC.
 
--  I'm currently learning how to code at a Web & App Development course at CICCC
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" alt="https://www.linkedin.com/in/evangelina-vega" width="20" height="20">
+<img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" href="https://www.linkedin.com/in/evangelina-vega" width="20" height="20">
 
 
 <!--
