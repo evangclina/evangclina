@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Evangelina Vega! 
+
+-  I'm currently learning how to code on a Web & App Development course at CICCC
 
 <!--
 **evangclina/evangclina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
