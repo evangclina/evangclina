@@ -3,7 +3,10 @@ My name is Evangelina Vega!
 
 -  I'm currently learning how to code at a Web & App Development course at CICCC
 
-![linkedin icon](https://cdn-icons-png.flaticon.com/512/61/61109.png)
+
+<img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" alt="https://www.linkedin.com/in/evangelina-vega" width="20" height="20">
+
+
 <!--
 **evangclina/evangclina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
