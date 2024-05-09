@@ -1,8 +1,9 @@
 ### Hi there 👋
 My name is Evangelina Vega! 
 
--  I'm currently learning how to code on a Web & App Development course at CICCC
+-  I'm currently learning how to code at a Web & App Development course at CICCC
 
+![linkedin icon](https://cdn-icons-png.flaticon.com/512/61/61109.png)
 <!--
 **evangclina/evangclina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
