@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="eva.png" width=800 style="display: block; margin: 0 auto"/>
+  <img src="eva.png" width=600 style="display: block; margin: 0 auto"/>
 </p>
 Mechatronics Engineer at Tecnológico de Monterrey 
 
