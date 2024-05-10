@@ -3,8 +3,7 @@
 </p>
 Mechatronics Engineer at Tecnológico de Monterrey 
 
-
-### About me <img src="chilitomorron.gif" alt="cinnamoroll" width="40">
+### About me <img src="chilitomorron.gif" alt="cinnamoroll" width="30">
 
 I'm currently learning how to code at a Web & App Development course at CICCC. 
 
