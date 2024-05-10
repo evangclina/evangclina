@@ -1,6 +1,14 @@
-### Hi there 👋
-My name is Evangelina Vega! 
-I'm currently learning how to code at a Web & App Development course at CICCC.
+<p align="center">
+  <img src="eva.png" width=400 style="display: block; margin: 0 auto"/>
+</p>
+
+### About me
+I'm currently learning how to code at a Web & App Development course at CICCC. 
+
+Languages I want to master
+- Javascript
+- Python
+- Ruby
 
 
 <a href= "https://www.linkedin.com/in/evangelina-vega">
